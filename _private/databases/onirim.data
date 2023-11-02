@@ -1,0 +1,959 @@
+[meta]
+
+id="onirim"
+name="Onirim Origins"
+
+[cards]
+
+card_001={
+"categories": {
+"color": "red",
+"expansion": "basic",
+"type": "door"
+},
+"texts": {
+},
+"values": {
+}
+}
+card_002={
+"categories": {
+"color": "red",
+"expansion": "basic",
+"type": "door"
+},
+"texts": {
+},
+"values": {
+}
+}
+card_003={
+"categories": {
+"color": "blue",
+"expansion": "basic",
+"type": "door"
+},
+"texts": {
+},
+"values": {
+}
+}
+card_004={
+"categories": {
+"color": "blue",
+"expansion": "basic",
+"type": "door"
+},
+"texts": {
+},
+"values": {
+}
+}
+card_005={
+"categories": {
+"color": "green",
+"expansion": "basic",
+"type": "door"
+},
+"texts": {
+},
+"values": {
+}
+}
+card_006={
+"categories": {
+"color": "green",
+"expansion": "basic",
+"type": "door"
+},
+"texts": {
+},
+"values": {
+}
+}
+card_007={
+"categories": {
+"color": "brown",
+"expansion": "basic",
+"type": "door"
+},
+"texts": {
+},
+"values": {
+}
+}
+card_008={
+"categories": {
+"color": "brown",
+"expansion": "basic",
+"type": "door"
+},
+"texts": {
+},
+"values": {
+}
+}
+card_009={
+"categories": {
+"expansion": "basic",
+"sub_type": "nightmare",
+"type": "dream"
+},
+"texts": {
+},
+"values": {
+}
+}
+card_010={
+"categories": {
+"expansion": "basic",
+"sub_type": "nightmare",
+"type": "dream"
+},
+"texts": {
+},
+"values": {
+}
+}
+card_011={
+"categories": {
+"expansion": "basic",
+"sub_type": "nightmare",
+"type": "dream"
+},
+"texts": {
+},
+"values": {
+}
+}
+card_012={
+"categories": {
+"expansion": "basic",
+"sub_type": "nightmare",
+"type": "dream"
+},
+"texts": {
+},
+"values": {
+}
+}
+card_013={
+"categories": {
+"expansion": "basic",
+"sub_type": "nightmare",
+"type": "dream"
+},
+"texts": {
+},
+"values": {
+}
+}
+card_014={
+"categories": {
+"expansion": "basic",
+"sub_type": "nightmare",
+"type": "dream"
+},
+"texts": {
+},
+"values": {
+}
+}
+card_015={
+"categories": {
+"expansion": "basic",
+"sub_type": "nightmare",
+"type": "dream"
+},
+"texts": {
+},
+"values": {
+}
+}
+card_016={
+"categories": {
+"expansion": "basic",
+"sub_type": "nightmare",
+"type": "dream"
+},
+"texts": {
+},
+"values": {
+}
+}
+card_017={
+"categories": {
+"expansion": "basic",
+"sub_type": "nightmare",
+"type": "dream"
+},
+"texts": {
+},
+"values": {
+}
+}
+card_018={
+"categories": {
+"expansion": "basic",
+"sub_type": "nightmare",
+"type": "dream"
+},
+"texts": {
+},
+"values": {
+}
+}
+card_019={
+"categories": {
+"color": "red",
+"expansion": "basic",
+"sub_type": "labyrinth",
+"symbol" : "key",
+"type": "location"
+},
+"texts": {
+},
+"values": {
+}
+}
+card_020={
+"categories": {
+"color": "red",
+"expansion": "basic",
+"sub_type": "labyrinth",
+"symbol" : "key",
+"type": "location"
+},
+"texts": {
+},
+"values": {
+}
+}
+card_021={
+"categories": {
+"color": "red",
+"expansion": "basic",
+"sub_type": "labyrinth",
+"symbol" : "key",
+"type": "location"
+},
+"texts": {
+},
+"values": {
+}
+}
+card_022={
+"categories": {
+"color": "red",
+"expansion": "basic",
+"sub_type": "labyrinth",
+"symbol" : "moon",
+"type": "location"
+},
+"texts": {
+},
+"values": {
+}
+}
+card_023={
+"categories": {
+"color": "red",
+"expansion": "basic",
+"sub_type": "labyrinth",
+"symbol" : "moon",
+"type": "location"
+},
+"texts": {
+},
+"values": {
+}
+}
+card_024={
+"categories": {
+"color": "red",
+"expansion": "basic",
+"sub_type": "labyrinth",
+"symbol" : "moon",
+"type": "location"
+},
+"texts": {
+},
+"values": {
+}
+}
+card_025={
+"categories": {
+"color": "red",
+"expansion": "basic",
+"sub_type": "labyrinth",
+"symbol" : "moon",
+"type": "location"
+},
+"texts": {
+},
+"values": {
+}
+}
+card_026={
+"categories": {
+"color": "red",
+"expansion": "basic",
+"sub_type": "labyrinth",
+"symbol" : "sun",
+"type": "location"
+},
+"texts": {
+},
+"values": {
+}
+}
+card_027={
+"categories": {
+"color": "red",
+"expansion": "basic",
+"sub_type": "labyrinth",
+"symbol" : "sun",
+"type": "location"
+},
+"texts": {
+},
+"values": {
+}
+}
+card_028={
+"categories": {
+"color": "red",
+"expansion": "basic",
+"sub_type": "labyrinth",
+"symbol" : "sun",
+"type": "location"
+},
+"texts": {
+},
+"values": {
+}
+}
+card_029={
+"categories": {
+"color": "red",
+"expansion": "basic",
+"sub_type": "labyrinth",
+"symbol" : "sun",
+"type": "location"
+},
+"texts": {
+},
+"values": {
+}
+}
+card_030={
+"categories": {
+"color": "red",
+"expansion": "basic",
+"sub_type": "labyrinth",
+"symbol" : "sun",
+"type": "location"
+},
+"texts": {
+},
+"values": {
+}
+}
+card_031={
+"categories": {
+"color": "red",
+"expansion": "basic",
+"sub_type": "labyrinth",
+"symbol" : "sun",
+"type": "location"
+},
+"texts": {
+},
+"values": {
+}
+}
+card_032={
+"categories": {
+"color": "red",
+"expansion": "basic",
+"sub_type": "labyrinth",
+"symbol" : "sun",
+"type": "location"
+},
+"texts": {
+},
+"values": {
+}
+}
+card_033={
+"categories": {
+"color": "red",
+"expansion": "basic",
+"sub_type": "labyrinth",
+"symbol" : "sun",
+"type": "location"
+},
+"texts": {
+},
+"values": {
+}
+}
+card_034={
+"categories": {
+"color": "red",
+"expansion": "basic",
+"sub_type": "labyrinth",
+"symbol" : "sun",
+"type": "location"
+},
+"texts": {
+},
+"values": {
+}
+}
+card_035={
+"categories": {
+"color": "blue",
+"expansion": "basic",
+"sub_type": "labyrinth",
+"symbol" : "key",
+"type": "location"
+},
+"texts": {
+},
+"values": {
+}
+}
+card_036={
+"categories": {
+"color": "blue",
+"expansion": "basic",
+"sub_type": "labyrinth",
+"symbol" : "key",
+"type": "location"
+},
+"texts": {
+},
+"values": {
+}
+}
+card_037={
+"categories": {
+"color": "blue",
+"expansion": "basic",
+"sub_type": "labyrinth",
+"symbol" : "key",
+"type": "location"
+},
+"texts": {
+},
+"values": {
+}
+}
+card_038={
+"categories": {
+"color": "blue",
+"expansion": "basic",
+"sub_type": "labyrinth",
+"symbol" : "moon",
+"type": "location"
+},
+"texts": {
+},
+"values": {
+}
+}
+card_039={
+"categories": {
+"color": "blue",
+"expansion": "basic",
+"sub_type": "labyrinth",
+"symbol" : "moon",
+"type": "location"
+},
+"texts": {
+},
+"values": {
+}
+}
+card_040={
+"categories": {
+"color": "blue",
+"expansion": "basic",
+"sub_type": "labyrinth",
+"symbol" : "moon",
+"type": "location"
+},
+"texts": {
+},
+"values": {
+}
+}
+card_041={
+"categories": {
+"color": "blue",
+"expansion": "basic",
+"sub_type": "labyrinth",
+"symbol" : "moon",
+"type": "location"
+},
+"texts": {
+},
+"values": {
+}
+}
+card_042={
+"categories": {
+"color": "blue",
+"expansion": "basic",
+"sub_type": "labyrinth",
+"symbol" : "sun",
+"type": "location"
+},
+"texts": {
+},
+"values": {
+}
+}
+card_043={
+"categories": {
+"color": "blue",
+"expansion": "basic",
+"sub_type": "labyrinth",
+"symbol" : "sun",
+"type": "location"
+},
+"texts": {
+},
+"values": {
+}
+}
+card_044={
+"categories": {
+"color": "blue",
+"expansion": "basic",
+"sub_type": "labyrinth",
+"symbol" : "sun",
+"type": "location"
+},
+"texts": {
+},
+"values": {
+}
+}
+card_045={
+"categories": {
+"color": "blue",
+"expansion": "basic",
+"sub_type": "labyrinth",
+"symbol" : "sun",
+"type": "location"
+},
+"texts": {
+},
+"values": {
+}
+}
+card_046={
+"categories": {
+"color": "blue",
+"expansion": "basic",
+"sub_type": "labyrinth",
+"symbol" : "sun",
+"type": "location"
+},
+"texts": {
+},
+"values": {
+}
+}
+card_047={
+"categories": {
+"color": "blue",
+"expansion": "basic",
+"sub_type": "labyrinth",
+"symbol" : "sun",
+"type": "location"
+},
+"texts": {
+},
+"values": {
+}
+}
+card_048={
+"categories": {
+"color": "blue",
+"expansion": "basic",
+"sub_type": "labyrinth",
+"symbol" : "sun",
+"type": "location"
+},
+"texts": {
+},
+"values": {
+}
+}
+card_049={
+"categories": {
+"color": "blue",
+"expansion": "basic",
+"sub_type": "labyrinth",
+"symbol" : "sun",
+"type": "location"
+},
+"texts": {
+},
+"values": {
+}
+}
+card_050={
+"categories": {
+"color": "green",
+"expansion": "basic",
+"sub_type": "labyrinth",
+"symbol" : "key",
+"type": "location"
+},
+"texts": {
+},
+"values": {
+}
+}
+card_051={
+"categories": {
+"color": "green",
+"expansion": "basic",
+"sub_type": "labyrinth",
+"symbol" : "key",
+"type": "location"
+},
+"texts": {
+},
+"values": {
+}
+}
+card_052={
+"categories": {
+"color": "green",
+"expansion": "basic",
+"sub_type": "labyrinth",
+"symbol" : "key",
+"type": "location"
+},
+"texts": {
+},
+"values": {
+}
+}
+card_053={
+"categories": {
+"color": "green",
+"expansion": "basic",
+"sub_type": "labyrinth",
+"symbol" : "moon",
+"type": "location"
+},
+"texts": {
+},
+"values": {
+}
+}
+card_054={
+"categories": {
+"color": "green",
+"expansion": "basic",
+"sub_type": "labyrinth",
+"symbol" : "moon",
+"type": "location"
+},
+"texts": {
+},
+"values": {
+}
+}
+card_055={
+"categories": {
+"color": "green",
+"expansion": "basic",
+"sub_type": "labyrinth",
+"symbol" : "moon",
+"type": "location"
+},
+"texts": {
+},
+"values": {
+}
+}
+card_056={
+"categories": {
+"color": "green",
+"expansion": "basic",
+"sub_type": "labyrinth",
+"symbol" : "moon",
+"type": "location"
+},
+"texts": {
+},
+"values": {
+}
+}
+card_057={
+"categories": {
+"color": "green",
+"expansion": "basic",
+"sub_type": "labyrinth",
+"symbol" : "sun",
+"type": "location"
+},
+"texts": {
+},
+"values": {
+}
+}
+card_058={
+"categories": {
+"color": "green",
+"expansion": "basic",
+"sub_type": "labyrinth",
+"symbol" : "sun",
+"type": "location"
+},
+"texts": {
+},
+"values": {
+}
+}
+card_059={
+"categories": {
+"color": "green",
+"expansion": "basic",
+"sub_type": "labyrinth",
+"symbol" : "sun",
+"type": "location"
+},
+"texts": {
+},
+"values": {
+}
+}
+card_060={
+"categories": {
+"color": "green",
+"expansion": "basic",
+"sub_type": "labyrinth",
+"symbol" : "sun",
+"type": "location"
+},
+"texts": {
+},
+"values": {
+}
+}
+card_061={
+"categories": {
+"color": "green",
+"expansion": "basic",
+"sub_type": "labyrinth",
+"symbol" : "sun",
+"type": "location"
+},
+"texts": {
+},
+"values": {
+}
+}
+card_062={
+"categories": {
+"color": "green",
+"expansion": "basic",
+"sub_type": "labyrinth",
+"symbol" : "sun",
+"type": "location"
+},
+"texts": {
+},
+"values": {
+}
+}
+card_063={
+"categories": {
+"color": "green",
+"expansion": "basic",
+"sub_type": "labyrinth",
+"symbol" : "sun",
+"type": "location"
+},
+"texts": {
+},
+"values": {
+}
+}
+card_064={
+"categories": {
+"color": "brown",
+"expansion": "basic",
+"sub_type": "labyrinth",
+"symbol" : "key",
+"type": "location"
+},
+"texts": {
+},
+"values": {
+}
+}
+card_065={
+"categories": {
+"color": "brown",
+"expansion": "basic",
+"sub_type": "labyrinth",
+"symbol" : "key",
+"type": "location"
+},
+"texts": {
+},
+"values": {
+}
+}
+card_066={
+"categories": {
+"color": "brown",
+"expansion": "basic",
+"sub_type": "labyrinth",
+"symbol" : "key",
+"type": "location"
+},
+"texts": {
+},
+"values": {
+}
+}
+card_067={
+"categories": {
+"color": "brown",
+"expansion": "basic",
+"sub_type": "labyrinth",
+"symbol" : "moon",
+"type": "location"
+},
+"texts": {
+},
+"values": {
+}
+}
+card_068={
+"categories": {
+"color": "brown",
+"expansion": "basic",
+"sub_type": "labyrinth",
+"symbol" : "moon",
+"type": "location"
+},
+"texts": {
+},
+"values": {
+}
+}
+card_069={
+"categories": {
+"color": "brown",
+"expansion": "basic",
+"sub_type": "labyrinth",
+"symbol" : "moon",
+"type": "location"
+},
+"texts": {
+},
+"values": {
+}
+}
+card_070={
+"categories": {
+"color": "brown",
+"expansion": "basic",
+"sub_type": "labyrinth",
+"symbol" : "moon",
+"type": "location"
+},
+"texts": {
+},
+"values": {
+}
+}
+card_071={
+"categories": {
+"color": "brown",
+"expansion": "basic",
+"sub_type": "labyrinth",
+"symbol" : "sun",
+"type": "location"
+},
+"texts": {
+},
+"values": {
+}
+}
+card_072={
+"categories": {
+"color": "brown",
+"expansion": "basic",
+"sub_type": "labyrinth",
+"symbol" : "sun",
+"type": "location"
+},
+"texts": {
+},
+"values": {
+}
+}
+card_073={
+"categories": {
+"color": "brown",
+"expansion": "basic",
+"sub_type": "labyrinth",
+"symbol" : "sun",
+"type": "location"
+},
+"texts": {
+},
+"values": {
+}
+}
+card_074={
+"categories": {
+"color": "brown",
+"expansion": "basic",
+"sub_type": "labyrinth",
+"symbol" : "sun",
+"type": "location"
+},
+"texts": {
+},
+"values": {
+}
+}
+card_075={
+"categories": {
+"color": "brown",
+"expansion": "basic",
+"sub_type": "labyrinth",
+"symbol" : "sun",
+"type": "location"
+},
+"texts": {
+},
+"values": {
+}
+}
+card_076={
+"categories": {
+"color": "brown",
+"expansion": "basic",
+"sub_type": "labyrinth",
+"symbol" : "sun",
+"type": "location"
+},
+"texts": {
+},
+"values": {
+}
+}
