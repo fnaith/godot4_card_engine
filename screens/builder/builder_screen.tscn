@@ -54,8 +54,8 @@ __meta__ = {
 [node name="Title" type="Label" parent="TitleBg/TitleLayout"]
 margin_right = 57.0
 margin_bottom = 51.0
-custom_fonts/font = SubResource( 1 )
 custom_colors/font_color = Color( 1, 1, 1, 1 )
+custom_fonts/font = SubResource( 1 )
 text = "Deck
 Builder"
 valign = 1
@@ -207,6 +207,7 @@ margin_left = 1030.0
 margin_right = 1230.0
 margin_bottom = 52.0
 rect_min_size = Vector2( 200, 0 )
+texture_click_mask = null
 button_text = "Back"
 
 [node name="BuilderLayout" type="HBoxContainer" parent="."]

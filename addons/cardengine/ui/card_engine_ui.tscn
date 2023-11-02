@@ -708,6 +708,7 @@ margin_bottom = -4.0
 [node name="AnimPreviewDialog" parent="Dialogs" instance=ExtResource( 17 )]
 
 [node name="NewEffectDialog" parent="Dialogs" instance=ExtResource( 19 )]
+
 [connection signal="pressed" from="Tabs/Databases/DatabaseLayout/Toolbar/CreateBtn" to="Tabs/Databases" method="_on_CreateBtn_pressed"]
 [connection signal="pressed" from="Tabs/Databases/DatabaseLayout/Toolbar/EditBtn" to="Tabs/Databases" method="_on_EditBtn_pressed"]
 [connection signal="pressed" from="Tabs/Databases/DatabaseLayout/Toolbar/DeleteBtn" to="Tabs/Databases" method="_on_DeleteBtn_pressed"]

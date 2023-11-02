@@ -38,24 +38,28 @@ __meta__ = {
 
 [node name="NewGameBtn" parent="ButtonsLayout" instance=ExtResource( 3 )]
 margin_right = 400.0
+texture_click_mask = null
 button_text = "New Game"
 
 [node name="BoardGameBtn" parent="ButtonsLayout" instance=ExtResource( 3 )]
 margin_top = 112.0
 margin_right = 400.0
 margin_bottom = 220.0
+texture_click_mask = null
 button_text = "Board Demo"
 
 [node name="BuilderBtn" parent="ButtonsLayout" instance=ExtResource( 3 )]
 margin_top = 224.0
 margin_right = 400.0
 margin_bottom = 332.0
+texture_click_mask = null
 button_text = "Deck Builder"
 
 [node name="QuitBtn" parent="ButtonsLayout" instance=ExtResource( 3 )]
 margin_top = 336.0
 margin_right = 400.0
 margin_bottom = 444.0
+texture_click_mask = null
 button_text = "Quit"
 
 [node name="HomeDisplay" parent="." instance=ExtResource( 4 )]

@@ -56,10 +56,10 @@ margin_left = -20.0
 margin_top = -30.25
 margin_right = 20.0
 margin_bottom = 9.75
-custom_fonts/font = SubResource( 1 )
 custom_colors/font_color_shadow = Color( 0, 0, 0, 0.498039 )
 custom_constants/shadow_offset_x = 2
 custom_constants/shadow_offset_y = 2
+custom_fonts/font = SubResource( 1 )
 text = "0"
 align = 1
 valign = 1
@@ -105,10 +105,10 @@ margin_left = -20.0
 margin_top = -30.0
 margin_right = 20.0
 margin_bottom = 10.0
-custom_fonts/font = SubResource( 1 )
 custom_colors/font_color_shadow = Color( 0, 0, 0, 0.498039 )
 custom_constants/shadow_offset_x = 2
 custom_constants/shadow_offset_y = 2
+custom_fonts/font = SubResource( 1 )
 text = "0"
 align = 1
 valign = 1
@@ -185,10 +185,10 @@ margin_left = 46.0
 margin_right = 134.0
 margin_bottom = 55.0
 size_flags_vertical = 3
-custom_fonts/font = SubResource( 2 )
 custom_colors/font_color_shadow = Color( 0, 0, 0, 0.498039 )
 custom_constants/shadow_offset_x = 2
 custom_constants/shadow_offset_y = 2
+custom_fonts/font = SubResource( 2 )
 text = "Mana  "
 valign = 1
 __meta__ = {
@@ -290,6 +290,7 @@ stretch_mode = 6
 margin_left = 578.0
 margin_right = 753.0
 rect_min_size = Vector2( 175, 55 )
+texture_click_mask = null
 button_text = "END TURN"
 
 [node name="HandZone" type="ColorRect" parent="."]
@@ -360,10 +361,10 @@ __meta__ = {
 [node name="Title" type="Label" parent="EffectsLayout"]
 margin_right = 205.0
 margin_bottom = 25.0
-custom_fonts/font = SubResource( 3 )
 custom_colors/font_color_shadow = Color( 0, 0, 0, 0.427451 )
 custom_constants/shadow_offset_x = 2
 custom_constants/shadow_offset_y = 2
+custom_fonts/font = SubResource( 3 )
 text = "Effects"
 align = 1
 
@@ -428,6 +429,7 @@ anchor_right = 1.0
 margin_left = -175.0
 margin_right = 0.0
 rect_min_size = Vector2( 0, 0 )
+texture_click_mask = null
 button_text = "MENU"
 
 [node name="StartingHandDelay" type="Timer" parent="."]

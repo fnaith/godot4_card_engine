@@ -145,6 +145,7 @@ anchor_right = 1.0
 margin_left = -175.0
 margin_right = 0.0
 rect_min_size = Vector2( 0, 0 )
+texture_click_mask = null
 button_text = "MENU"
 
 [connection signal="card_dropped" from="Board/Pile1" to="." method="_on_Pile1_card_dropped"]

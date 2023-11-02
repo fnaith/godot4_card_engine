@@ -1236,6 +1236,7 @@ margin_right = 357.0
 margin_bottom = 30.0
 rect_min_size = Vector2( 100, 30 )
 text = "Cancel"
+
 [connection signal="toggled" from="MainLayout/MainTabs/Layout/LayoutLayout/ModeSwitchLayout/ModeSwitch" to="." method="_on_ModeSwitch_toggled"]
 [connection signal="pressed" from="MainLayout/ButtonLayout/SaveBtn" to="." method="_on_SaveBtn_pressed"]
 [connection signal="pressed" from="MainLayout/ButtonLayout/CancelBtn" to="." method="_on_CancelBtn_pressed"]

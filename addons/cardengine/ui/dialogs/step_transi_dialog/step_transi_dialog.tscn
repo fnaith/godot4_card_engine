@@ -144,4 +144,5 @@ hint_tooltip = "If OFF the card will not react to user inputs during the transit
 [node name="ButtonLayout" parent="MainLayout" index="2"]
 margin_top = 211.0
 margin_bottom = 241.0
+
 [connection signal="pressed" from="MainLayout/Form/Random" to="." method="_on_Random_pressed"]

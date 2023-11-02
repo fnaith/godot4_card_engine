@@ -200,6 +200,7 @@ hint_tooltip = "Closes this dialog."
 text = "Done"
 
 [node name="DuplicateCardDialog" parent="." instance=ExtResource( 2 )]
+
 [connection signal="about_to_show" from="." to="." method="_on_EditDatabaseDialog_about_to_show"]
 [connection signal="item_selected" from="MainLayout/FiltersLayout/ValFilter" to="." method="_on_ValFilter_item_selected"]
 [connection signal="item_selected" from="MainLayout/FiltersLayout/TxtFilter" to="." method="_on_TxtFilter_item_selected"]

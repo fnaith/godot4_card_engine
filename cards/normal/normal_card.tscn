@@ -79,8 +79,8 @@ margin_left = -138.0
 margin_top = -91.0
 margin_right = -167.0
 margin_bottom = -117.0
-custom_fonts/font = SubResource( 2 )
 custom_colors/font_color = Color( 0.141176, 0.141176, 0.141176, 1 )
+custom_fonts/font = SubResource( 2 )
 text = "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras tempus, enim eu blandit sodales, risus mi egestas felis, non mattis tellus est vel turpis. Sed fermentum rutrum varius. "
 autowrap = true
 clip_text = true
@@ -219,8 +219,8 @@ margin_left = 76.0
 margin_top = 230.0
 margin_right = 141.0
 margin_bottom = 244.0
-custom_fonts/font = SubResource( 4 )
 custom_colors/font_color = Color( 0.67451, 0.67451, 0.67451, 1 )
+custom_fonts/font = SubResource( 4 )
 text = "card_id"
 align = 2
 __meta__ = {
@@ -239,4 +239,5 @@ margin_left = -210.0
 margin_top = -300.0
 margin_right = 210.0
 margin_bottom = 300.0
+
 [connection signal="instance_changed" from="." to="." method="_on_NormalCard_instance_changed"]

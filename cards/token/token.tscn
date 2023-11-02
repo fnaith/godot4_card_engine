@@ -54,4 +54,5 @@ margin_left = -150.0
 margin_top = -150.0
 margin_right = 150.0
 margin_bottom = 150.0
+
 [connection signal="instance_changed" from="." to="." method="_on_PlacedCard_instance_changed"]
